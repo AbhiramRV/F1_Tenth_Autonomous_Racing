@@ -13,6 +13,7 @@ Perception:
     Camera
     Lidar
   Tracking
+  Sensor Fusion
   
 Planning:
   Behaviour Planning
