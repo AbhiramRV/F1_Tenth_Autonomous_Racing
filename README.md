@@ -10,9 +10,8 @@ Perception:
   Detection and Segmentation
   Localization
     NDT algorithm
-    
-    Camera:
-    Lidar:
+    Camera
+    Lidar
   Tracking
   
 Planning:
