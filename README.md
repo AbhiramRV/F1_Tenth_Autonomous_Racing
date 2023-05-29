@@ -10,9 +10,14 @@ ROS2
 
 Perception:
   Detection and Segmentation
+    3D deep Learning
   Localization
     NDT algorithm
     ICP
+    SLAM
+    Dead Recogning
+    Visual Odemetry
+    
     Camera
     Lidar
   Tracking
