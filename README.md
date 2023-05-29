@@ -12,6 +12,7 @@ Perception:
   Detection and Segmentation
   Localization
     NDT algorithm
+    ICP
     Camera
     Lidar
   Tracking
