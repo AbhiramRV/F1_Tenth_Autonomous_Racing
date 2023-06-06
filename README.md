@@ -24,9 +24,15 @@ Perception:
   Sensor Fusion
   
 Planning:
-  Behaviour Planning
+  Behaviour Planning:
+    Finite State Machines
+    Markov Decision Process
   Path Planning
     Local
+      Graphs: A*, Dijkrtas, etc
+      Sampling: RRT. RRT*
+      Curve interpolation
+      Numerical Optimization
     Global
   Tragectory generation
 Control:
