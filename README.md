@@ -17,6 +17,7 @@ Perception:
     SLAM
     Dead Recogning
     Visual Odemetry
+    AMCL
     
     Camera
     Lidar
