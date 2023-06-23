@@ -10,13 +10,13 @@ ROS2
 
 Perception:
   Detection and Segmentation
-    3D deep Learning
+    3D Deep Learning
   Localization
     NDT algorithm
     ICP
-    SLAM
-    Dead Recogning
-    inertial Visual Odemetry
+    SLAM (Graph SLAM, EKF SLAM, Fast SLAM, Topological SLAM, Visual SLAM, Lidar SLAM)
+    Dead Reckoning
+    inertial Visual Odometry
     AMCL
     
     Camera
@@ -25,7 +25,7 @@ Perception:
   Sensor Fusion
   
 Planning:
-  Behaviour Planning:
+  Behavior Planning:
     Finite State Machines
     Markov Decision Process
   Path Planning
