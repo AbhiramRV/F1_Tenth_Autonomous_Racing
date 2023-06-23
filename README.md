@@ -16,7 +16,7 @@ Perception:
     ICP
     SLAM
     Dead Recogning
-    Visual Odemetry
+    inertial Visual Odemetry
     AMCL
     
     Camera
@@ -40,3 +40,18 @@ Control:
   MPC
   Pure Pursuit Control
   PID
+
+
+SLAM:
+  SLAM techniques are used in robotics to generate a map of an unknown environment. With the generated map, robot can localize itself during autonomous run.
+  1. LIDAR SLAM
+  2. Visual SLAM:
+     Visual SLAM algorithm contains following steps
+
+     Sensor Data Acquisition(Data from Camera)
+     Visual Odometry
+     Loop Closing
+     Reconstruction
+Good article to read on VSlam is
+https://medium.com/@dcasadoherraez/introduction-to-visual-slam-chapter-1-introduction-to-slam-a0211654bf0e
+     
