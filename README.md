@@ -13,7 +13,7 @@ Perception:
     3D Deep Learning
   Localization
     NDT algorithm
-    ICP
+    Scan Matching (ICP)
     SLAM (Graph SLAM, EKF SLAM, Fast SLAM, Topological SLAM, Visual SLAM, Lidar SLAM)
     Dead Reckoning
     inertial Visual Odometry
