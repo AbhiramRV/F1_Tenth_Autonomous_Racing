@@ -12,8 +12,10 @@ Perception:
   Detection and Segmentation
     3D Deep Learning
   Localization
-    NDT algorithm
+    EKF, UKF
+    Scan Matching(NDT algorithm)
     Scan Matching (ICP)
+    https://www.youtube.com/watch?v=LETPf6eoyYg&list=PL868twsx7OjdnroeAUFVBGlKGnFGi9txc&index=14
     SLAM (Graph SLAM, EKF SLAM, Fast SLAM, Topological SLAM, Visual SLAM, Lidar SLAM)
     Dead Reckoning
     inertial Visual Odometry
