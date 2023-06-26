@@ -55,7 +55,7 @@ In summary, particle filters (MCL) and scan matching algorithms are both techniq
     SLAM (Graph SLAM, EKF SLAM, Fast SLAM, Topological SLAM, Visual SLAM, Lidar SLAM)
     Dead Reckoning
     inertial Visual Odometry
-    AMCL
+    Particle filter(AMCL)
     
     Camera
     Lidar
