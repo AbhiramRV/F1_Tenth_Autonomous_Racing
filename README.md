@@ -75,9 +75,9 @@ Planning:
     Global
   Tragectory generation
 Control:
-  MPC
-  Pure Pursuit Control
-  PID
+  MPC (Used for precise control)
+  Pure Pursuit Control (For steeling control of non holonomic robots)
+  PID (Most commonly used controller)
 
 
 SLAM:
