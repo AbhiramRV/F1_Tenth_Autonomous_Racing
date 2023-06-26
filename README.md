@@ -68,7 +68,7 @@ Planning:
     Markov Decision Process
   Path Planning
     Local
-      Graphs Based Planning: A*, Dijkrtas, etc
+      Graphs Based Planning: A*, Dijkrtas, Hybrid A*
       Sampling Based Planning : RRT. RRT*
       Curve interpolation
       Numerical Optimization
