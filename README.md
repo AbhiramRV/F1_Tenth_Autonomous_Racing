@@ -68,8 +68,8 @@ Planning:
     Markov Decision Process
   Path Planning
     Local
-      Graphs Based Planning: A*, Dijkrtas, Hybrid A*
-      Sampling Based Planning : RRT. RRT*
+      Graphs Based Planning: A*, Dijkrtas, Hybrid A* (Grid based search algorithms) : These algorithms are costly when gird size is big
+      Sampling Based Planning : RRT. RRT*   (Continuous space sampling algorithms) 
       Curve interpolation
       Numerical Optimization
     Global
